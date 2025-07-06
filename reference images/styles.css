@@ -1,20 +1,21 @@
 table{
 
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
+    
     
 }
 #portfolio{ 
-    width: 100%;
-    margin-right: 80px;
+    width: 80%;
+    margin-right: 50px;
 
 }
 th, td {
     text-align: center;
 }
     table img {
-        width: 300px;
-        height: auto;
+        width:350px;
+        height:auto;
         
     }
 
